@@ -1,7 +1,7 @@
 <template>
   <div class="home">
 666
-  </div>
+1 3 </div>
 </template>
 
 <script>
